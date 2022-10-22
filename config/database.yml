@@ -83,4 +83,4 @@ production:
   <<: *default
   database: zombie_api_production
   username: zombie_api
-  password: <%= ENV["ZOMBIE_API_DATABASE_PASSWORD"] %>
+  password: secret
