@@ -1,7 +1,5 @@
 # README
 
-# README
-
 # Introduction
 Hi there. This is the zombie SNS rest API.
 There are a few prerequisites necessary to be able to use this API.
